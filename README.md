@@ -1,8 +1,4 @@
-Testing
-# Project Name
-
-*\<update with your project name and a short description\>*
-
+asdasdasdasd
 Project that does ... implemented in ... runs on Qualcomm® *\<processor\>*
 
 ## Branches

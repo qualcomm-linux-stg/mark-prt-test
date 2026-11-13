@@ -11,7 +11,7 @@
 
 # Project Name
 
-*\<update with your project name and a short description\>*
+*\<update with your project nsdasdasdasdasdasdame and a short description\>*
 
 Project that does ... implemented in ... runs on Qualcomm® *\<processor\>*
 
